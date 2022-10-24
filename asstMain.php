@@ -1,4 +1,3 @@
-<!-- http://localhost/ThompsonToriCodingAsst/asstmain.php -->
 <?php
 require_once("asstInclude.php");
 require_once("clsDeleteSunglassRecord.php");
