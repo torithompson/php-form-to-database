@@ -1,0 +1,31 @@
+/* http://localhost/ThompsonToriCodingAsst/asstmain.php */
+
+ body {
+    font-size: 1.2em;
+    color: #023535;
+    background-color: #C7FFED;
+ }
+ .DataPair {
+   margin-top: 1.2em;
+   margin-bottom: 1.2em;
+   margin-left: 0.75em;
+}
+input, textarea {
+   color: #008F8C;
+}
+button {
+   margin-top: 2em;
+   background-color: #c7ffed;
+   border: none;
+}
+table, td, th {
+   border: 1px solid #015958;
+   border-collapse:collapse;
+   padding: 0.5em;
+}
+.buttons {
+   display:block;
+}
+footer {
+   margin-top: 2em;
+}
