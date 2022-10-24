@@ -163,7 +163,8 @@ function displayMainForm()
         echo"</form>";
     }
 
-    // main
+    // main 
+    /*written by professor
     date_default_timezone_set ('America/Toronto');
     $mysqlObj = createConnectionObject(); 
     $tableName = "Sunglasses"; 
@@ -181,5 +182,5 @@ function displayMainForm()
                                             ($mysqlObj,$tableName);
                 else displayMainForm();
     if (isset($mysqlObj)) $mysqlObj->close();
-    writeFooters();
+    writeFooters();*/
 ?>
