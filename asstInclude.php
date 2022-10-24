@@ -17,7 +17,7 @@ function writeHeaders($Heading="Welcome",$TitleBar="MySite")
 }
 function writeFooters()
 {
-    echo "</body>";
+    echo "</body>"; 
     echo"<footer>";
     displayContactInfo();
     echo"</footer>";
