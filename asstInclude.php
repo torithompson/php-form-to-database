@@ -1,4 +1,4 @@
-<?php
+<?php 
 function writeHeaders($Heading="Welcome",$TitleBar="MySite")
 {
     echo "
