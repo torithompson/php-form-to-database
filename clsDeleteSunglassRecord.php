@@ -1,5 +1,4 @@
-<!-- http://localhost/ThompsonToriCodingAsst/asstmain.php -->
-
+<!-- Written by professor -->
 <?php
 require_once("asstinclude.php");
 class clsDeleteSunglassRecord 

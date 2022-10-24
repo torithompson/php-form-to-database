@@ -1,5 +1,0 @@
-localhost
-root
-
-COMP220db
-3306
